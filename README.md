@@ -1,4 +1,4 @@
 # MicroProject
-This is my MicroProjects for all sem 
+This is my MicroProjects of all sememesters  
 <br>
 Author - Ritesh Rathore
